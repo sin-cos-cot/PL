@@ -18,6 +18,6 @@
 [ 1-2 上課實作](https://github.com/sin-cos-cot/PL/blob/main/0302-class%20pratice.ipynb)
 
 ## 作業連結區
-
+[ HomeWork 01 ](https://github.com/sin-cos-cot/PL/tree/main/HW)
 
 ## 專題連結區
