@@ -16,8 +16,9 @@
 
 [ 1-1 上課筆記 ]( https://github.com/sin-cos-cot/PL/blob/main/01%20PYTHON%E5%9F%BA%E7%A4%8E-compressed.pdf)
 [ 1-2 上課實作](https://github.com/sin-cos-cot/PL/blob/main/0302-class%20pratice.ipynb)
+[ 1-3 回家練習 ](https://github.com/sin-cos-cot/PL/tree/main/HW)
 
 ## 作業連結區
-[ HomeWork 01 ](https://github.com/sin-cos-cot/PL/tree/main/HW)
+
 
 ## 專題連結區
