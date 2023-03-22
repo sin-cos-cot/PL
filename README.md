@@ -19,6 +19,6 @@
 [ 1-3 回家練習 ](https://github.com/sin-cos-cot/PL/tree/main/HW)
 
 ## 作業連結區
-
+[HW1-Taiwan UX class](https://github.com/sin-cos-cot/PL/blob/main/HW1_UXCLASS.ipynb)
 
 ## 專題連結區
