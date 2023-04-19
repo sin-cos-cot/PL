@@ -20,5 +20,5 @@
 
 ## 作業連結區
 [HW1-Taiwan UX class](https://github.com/sin-cos-cot/PL/blob/main/HW1_UXCLASS.ipynb)
-
+</br>[HW2-圖表練習](https://github.com/sin-cos-cot/PL/blob/main/HW2_%E5%9C%96%E8%A1%A8%E7%B7%B4%E7%BF%92.ipynb)
 ## 專題連結區
