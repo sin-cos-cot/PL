@@ -21,4 +21,6 @@
 ## 作業連結區
 [HW1-Taiwan UX class](https://github.com/sin-cos-cot/PL/blob/main/HW1_UXCLASS.ipynb)
 </br>[HW2-圖表練習](https://github.com/sin-cos-cot/PL/blob/main/HW2_%E5%9C%96%E8%A1%A8%E7%B7%B4%E7%BF%92.ipynb)
+</br>[HW3-POPBEE](https://github.com/sin-cos-cot/PL/blob/main/HW3-POPBEE.ipynb)
 ## 專題連結區
+[Google Extensions-QR code](https://github.com/cindyfu0208/PL/blob/main/%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A.ipynb)
